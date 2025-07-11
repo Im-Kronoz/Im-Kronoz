@@ -31,12 +31,21 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">My GitHub Stats:</h3>
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kronoz&langs_count=20&theme=highcontrast&layout=compact" />
+    </a>
+</div>
+<br>
+
 <div align="center">
- 
+
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Kronoz\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Im-Kronoz&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 </div>
 
