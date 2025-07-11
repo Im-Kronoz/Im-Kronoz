@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Kronoz\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Kronoz&icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Im-Kronoz&theme=midnight-purple)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Im-Kronoz&theme=midnight-purple&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 
 </div>
