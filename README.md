@@ -27,15 +27,13 @@
 
 <!---- Im Learning this programming tools ----->
 
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">My GitHub Stats:</h3>
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kronoz&langs_count=20&theme=midnight-purple&layout=compact" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kronoz&langs_count=20&theme=midnight-purple&layout=donut" />
     </a>
 </div>
 <br>
